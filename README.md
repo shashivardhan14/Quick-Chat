@@ -19,5 +19,7 @@ Displays real-time online/offline status and "typing" indicators by monitoring a
 Multimedia Sharing:
 Supports file uploads for images, videos, and documents directly through Back4app File Storage.
 
+<img src = "app/Screenshot-1.jpg" width = "20%" >  <img src = "app/Screenshot-2.jpg" width = "20%" >  <img src = "app/Screenshot-3.jpg" width = "20%" >  <img src = "app/Screenshot-4.jpg" width = "20%" > 
+
 
 
