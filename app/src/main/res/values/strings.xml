@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quick Chat</string>
+    <string name="back4app_app_id">uljFnXCEwWvoDZEBsmyhyrgf4L7DgvlFyAYIHGrP</string>
+    <string name="back4app_client_key">EC5t6K7scq2WVCFow29cS5uk67nq0fYLYWoTV5E1</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com</string>
+    <string name="fcm_sender_id">917288909956</string>
+</resources>
